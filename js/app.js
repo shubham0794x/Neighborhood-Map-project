@@ -77,7 +77,7 @@ var locations =[
 // declaration of global variables
 var map, infoWindow, bounds;
 
-function errorHandling() {
+function googleError() {
   alert( 'An error occurred with Google Maps!' );
 }
 // Initialization of google maps
